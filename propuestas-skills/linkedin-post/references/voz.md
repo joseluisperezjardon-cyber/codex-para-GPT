@@ -34,6 +34,9 @@ ya anunciada públicamente.
   tiempo de respuesta y en garantías pensadas para ciclado parcial continuo.
   Una de cuatro horas se decide en el precio por kWh de la celda y en cómo
   degrada ciclando a fondo cada día."
+- **Cierra con un contraste breve, no con una pregunta**: "Por fuera, el
+  mismo contenedor. Por dentro, otro pliego." Dos frases cortas que resumen
+  la tesis con una imagen del oficio.
 - **Corrige malentendidos con una frase corta**: "No es una contradicción,
   son productos distintos."
 - **Matiza cuando no hay certeza**, sin exceso: "seguramente".
@@ -45,9 +48,14 @@ ya anunciada públicamente.
   consecuencia.
 - Sin emojis, sin exclamaciones, sin adjetivos de venta, sin preguntas de
   cebo.
-- Usa hashtags y menciones (@) para ampliar el alcance: hashtags del sector
-  y del tema al final, y menciones a las empresas y organismos que aparecen en
-  el post.
+- Usa hashtags y menciones para ampliar el alcance. En su post de referencia
+  puso ocho hashtags al final, mezclando español e inglés para llegar a España,
+  Latinoamérica y al sector internacional (#BESS #Almacenamiento
+  #EnergyStorage #RepúblicaDominicana #Renovables #TransiciónEnergética
+  #SupplyChain #ACCIONAEnergía), y mencionó al medio que publicó la noticia
+  (pv magazine LatAm).
+- Cita la fuente: enlace a la noticia al final del post, después de los
+  hashtags, para que se vea la tarjeta de vista previa.
 
 ## Cómo suena en privado (correos), útil para el tono
 
@@ -79,15 +87,17 @@ párrafo.
 - Sobre ACCIONA Energía, solo información ya publicada por la empresa.
 - Nunca nombres de proveedores en negociación, precios u ofertas recibidas,
   ni datos de contratos concretos.
-- Proyectos, temas o países que no toca: [pendiente]
-- Política de redes sociales de la empresa: [pendiente]
+- Proyectos, temas o países que no toca: ninguno indicado; aplicar las
+  reglas anteriores.
+- Política de redes sociales de la empresa: [pendiente de confirmar por el
+  usuario; mientras tanto, las reglas anteriores]
 
 ## Pruebas que puede usar
 
 Cifras propias que está dispuesto a firmar: [pendiente]. Hasta que las haya,
 los borradores salen con `{{dato}}`.
 
-## Post de referencia (publicado, noviembre de 2026; texto parcial)
+## Post de referencia (publicado en noviembre de 2026)
 
 En República Dominicana ha habido días de 2026 con cerca del 40% de la
 renovable recortada. En los primeros meses del año, la media rondó el 14%.
@@ -110,4 +120,9 @@ distintos. Y el Gobierno se ha marcado al menos 800 MW de almacenamiento para
 Una batería para frecuencia se juega en el PCS, en el tiempo de respuesta y en
 garantías pensadas para ciclado parcial continuo. Una de cuatro horas se
 decide en el precio por kWh de la celda y en cómo degrada ciclando a fondo
-cada día. Por fuera, el mismo [texto cortado en la captura]
+cada día. Por fuera, el mismo contenedor. Por dentro, otro pliego.
+
+#BESS #Almacenamiento #EnergyStorage #RepúblicaDominicana #Renovables
+#TransiciónEnergética #SupplyChain #ACCIONAEnergía @pv magazine LatAm
+
+[enlace a la noticia de pv magazine LatAm]

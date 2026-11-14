@@ -61,21 +61,25 @@ política de redes sociales de su empresa.
   firme. No las dos. Nada de "¿Qué opináis?" a secas.
 - **Extensión:** entre 800 y 1.300 caracteres como punto de partida. Ajústala
   con las analíticas del propio usuario cuando las haya.
-- **Hashtags:** entre tres y cinco, al final. Combina uno o dos amplios del
-  sector (#EnergíasRenovables, #TransiciónEnergética) con dos o tres del tema
-  concreto (#AlmacenamientoEnergético, #CadenaDeSuministro,
-  #MovilidadEléctrica). Solo etiquetas que la gente sigue de verdad; nada de
-  hashtags inventados.
+- **Hashtags:** sigue la práctica del usuario descrita en `voz.md` (en su
+  post de referencia, ocho al final, mezclando español e inglés). Combina
+  amplios del sector (#Renovables, #TransiciónEnergética) con los del tema
+  (#BESS, #EnergyStorage, #SupplyChain, #MovilidadEléctrica) y, si aplica,
+  país y empresa. Solo etiquetas que la gente sigue de verdad; nada de
+  hashtags inventados. No hay datos públicos fiables sobre el número óptimo,
+  así que no lo presentes como regla de alcance.
 - **Menciones (@):** menciona a las empresas, organismos o personas que
   aparecen en el post y tienen página en LinkedIn (la propia empresa cuando
-  anuncia algo, operadores de red, asociaciones sectoriales, autores de un
-  informe citado). Una mención tiene que aportar: nunca a proveedores en
+  anuncia algo, el medio que publicó la noticia, operadores de red,
+  asociaciones sectoriales, autores de un informe citado). Una mención tiene que aportar: nunca a proveedores en
   negociación ni a personas sin relación con el contenido. Avisa al usuario de
   que al pegar el texto la mención no se enlaza sola: tiene que borrar el
   "@Nombre", volver a escribir @ y elegir la página en el desplegable.
-- **Enlaces:** en el primer comentario, no en el cuerpo. Se suele decir que
-  LinkedIn reduce el alcance de los posts con enlace externo; LinkedIn no lo
-  ha confirmado, así que trátalo como práctica a contrastar, no como regla.
+- **Enlaces:** por defecto, como hace el usuario: el enlace a la fuente al
+  final, después de los hashtags, para que se vea la tarjeta de vista previa.
+  Si quiere probar la alternativa, ponlo en el primer comentario. Se suele
+  decir que LinkedIn reduce el alcance de los posts con enlace externo, pero
+  LinkedIn no lo ha confirmado: no lo presentes como hecho.
 
 ## Tipos de gancho
 
@@ -107,11 +111,11 @@ Elige tres que encajen con la idea, de tipos distintos:
 ```
 gancho:          tipo 3, la contradicción
 extensión:       1.090 caracteres
-hashtags:        #... (entre tres y cinco)
+hashtags:        #... (español e inglés, según voz.md)
 menciones:       @... (reescribir en LinkedIn para que enlacen)
 fuentes:         [lista, o "ninguna, todo es experiencia propia"]
 confidencialidad: sin incidencias / revisar línea 4
-enlace:          [si hay, va en el primer comentario]
+enlace:          [fuente, al final del post]
 ```
 
 6. **Nunca publiques** ni uses un navegador para entrar en la cuenta del
