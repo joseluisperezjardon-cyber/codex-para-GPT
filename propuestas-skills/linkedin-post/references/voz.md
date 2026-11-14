@@ -7,10 +7,14 @@ Perfil deducido de un post publicado y de dos correos de trabajo (noviembre de
 
 - Puesto: Global Supply Chain Manager en ACCIONA Energía. Compras y supply
   chain de proyectos renovables EPC: PV, BESS, eólica, subestaciones.
-- A quién le escribe: profesionales del sector energético y del
-  almacenamiento (compras, ingeniería, desarrollo de proyectos, operadores de
-  red, fabricantes). [pendiente de confirmar]
-- Objetivo en LinkedIn: [pendiente]
+- A quién le escribe: a todo el sector renovable, no solo a compras:
+  ingeniería, desarrollo, operación, operadores de red, fabricantes,
+  inversores y administración. Por eso cada concepto técnico se explica en
+  llano la primera vez que aparece.
+- Objetivo en LinkedIn: llegar a todo el sector y que lo identifiquen como
+  referencia en cadena de suministro de la transición energética.
+- Temas: energías renovables (PV, eólica, almacenamiento/BESS), cadena de
+  suministro, electrificación y recarga de vehículo eléctrico.
 
 ## Cómo suena en público (LinkedIn)
 
@@ -41,6 +45,9 @@ ya anunciada públicamente.
   consecuencia.
 - Sin emojis, sin exclamaciones, sin adjetivos de venta, sin preguntas de
   cebo.
+- Usa hashtags y menciones (@) para ampliar el alcance: hashtags del sector
+  y del tema al final, y menciones a las empresas y organismos que aparecen en
+  el post.
 
 ## Cómo suena en privado (correos), útil para el tono
 

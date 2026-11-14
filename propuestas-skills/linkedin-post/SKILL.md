@@ -2,9 +2,11 @@
 name: linkedin-post
 description: >-
   Escribe posts de LinkedIn con la voz del usuario a partir de una idea, una
-  noticia, un dato de mercado o una experiencia de trabajo (compras y supply
-  chain en renovables: PV, BESS, eólica, subestaciones). Entrega tres ganchos,
-  un borrador listo para copiar y una revisión de confidencialidad. Úsala
+  noticia, un dato de mercado o una experiencia de trabajo sobre energías
+  renovables (PV, BESS, eólica, subestaciones), cadena de suministro,
+  electrificación o recarga de vehículo eléctrico. Entrega tres ganchos, un
+  borrador listo para copiar con hashtags y menciones, y una revisión de
+  confidencialidad. Úsala
   cuando el usuario pida un post de LinkedIn, "convierte esto en un post",
   ganchos para LinkedIn o una reescritura de un post suyo. No publica nada:
   el usuario copia y publica.
@@ -59,8 +61,18 @@ política de redes sociales de su empresa.
   firme. No las dos. Nada de "¿Qué opináis?" a secas.
 - **Extensión:** entre 800 y 1.300 caracteres como punto de partida. Ajústala
   con las analíticas del propio usuario cuando las haya.
-- **Hashtags:** tres como máximo, al final, y solo si alguien los sigue de
-  verdad.
+- **Hashtags:** entre tres y cinco, al final. Combina uno o dos amplios del
+  sector (#EnergíasRenovables, #TransiciónEnergética) con dos o tres del tema
+  concreto (#AlmacenamientoEnergético, #CadenaDeSuministro,
+  #MovilidadEléctrica). Solo etiquetas que la gente sigue de verdad; nada de
+  hashtags inventados.
+- **Menciones (@):** menciona a las empresas, organismos o personas que
+  aparecen en el post y tienen página en LinkedIn (la propia empresa cuando
+  anuncia algo, operadores de red, asociaciones sectoriales, autores de un
+  informe citado). Una mención tiene que aportar: nunca a proveedores en
+  negociación ni a personas sin relación con el contenido. Avisa al usuario de
+  que al pegar el texto la mención no se enlaza sola: tiene que borrar el
+  "@Nombre", volver a escribir @ y elegir la página en el desplegable.
 - **Enlaces:** en el primer comentario, no en el cuerpo. Se suele decir que
   LinkedIn reduce el alcance de los posts con enlace externo; LinkedIn no lo
   ha confirmado, así que trátalo como práctica a contrastar, no como regla.
@@ -95,6 +107,8 @@ Elige tres que encajen con la idea, de tipos distintos:
 ```
 gancho:          tipo 3, la contradicción
 extensión:       1.090 caracteres
+hashtags:        #... (entre tres y cinco)
+menciones:       @... (reescribir en LinkedIn para que enlacen)
 fuentes:         [lista, o "ninguna, todo es experiencia propia"]
 confidencialidad: sin incidencias / revisar línea 4
 enlace:          [si hay, va en el primer comentario]
