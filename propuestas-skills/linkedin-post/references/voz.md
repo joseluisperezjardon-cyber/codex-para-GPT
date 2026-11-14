@@ -18,9 +18,11 @@ Perfil deducido de un post publicado y de dos correos de trabajo (noviembre de
 
 ## Cómo suena en público (LinkedIn)
 
-Escribe como analista del sector, no como portavoz. Habla de la empresa en
-tercera persona ("lo que anuncia hoy ACCIONA Energía") y solo con información
-ya anunciada públicamente.
+Escribe como analista del sector, no como portavoz. Sus temas son generales
+del sector, no asuntos de la empresa. Si la empresa aparece, es solo como
+noticia pública que sirve de ejemplo para un análisis general, en tercera
+persona ("lo que anuncia hoy ACCIONA Energía"), como en el post de
+referencia.
 
 - **Abre con un dato de mercado**, no con una opinión: "En República
   Dominicana ha habido días de 2026 con cerca del 40% de la renovable
@@ -84,13 +86,13 @@ párrafo.
 
 ## Límites
 
-- Sobre ACCIONA Energía, solo información ya publicada por la empresa.
+- Temas generales del sector. Nada de asuntos internos de ACCIONA Energía;
+  de la empresa, solo noticias ya publicadas y como ejemplo.
 - Nunca nombres de proveedores en negociación, precios u ofertas recibidas,
   ni datos de contratos concretos.
-- Proyectos, temas o países que no toca: ninguno indicado; aplicar las
-  reglas anteriores.
-- Política de redes sociales de la empresa: [pendiente de confirmar por el
-  usuario; mientras tanto, las reglas anteriores]
+- Proyectos, temas o países que no toca: ninguno, más allá de lo anterior.
+- Política de redes sociales de la empresa: el usuario indica que, en
+  principio, no le impone restricciones.
 
 ## Pruebas que puede usar
 
